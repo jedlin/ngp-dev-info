@@ -1,5 +1,5 @@
 <link rel="preload" href="https://d3rse9xjbp8270.cloudfront.net/at.js" as="script" crossorigin="anonymous">
- <link rel="preload" href="https://d3rse9xjbp8270.cloudfront.net/at.min.css" as="style">
- <script type="text/javascript" src="https://d3rse9xjbp8270.cloudfront.net/at.js" crossorigin="anonymous"></script>
- <div class="ngp-form" data-form-url="https://jimedlin.com/ngpjson.php" data-fastaction-endpoint="https://fastaction.ngpvan.com" data-inline-errors="true" data-fastaction-nologin="true" data-databag-endpoint="https://profile.ngpvan.com" data-databag="everybody" data-mobile-autofocus="false">
+<link rel="preload" href="https://d3rse9xjbp8270.cloudfront.net/at.min.css" as="style">
+<script type="text/javascript" src="https://d3rse9xjbp8270.cloudfront.net/at.js" crossorigin="anonymous"></script>
+<div class="ngp-form" data-form-url="https://jimedlin.com/ngpjson.php" data-fastaction-endpoint="https://fastaction.ngpvan.com" data-inline-errors="true" data-fastaction-nologin="true" data-databag-endpoint="https://profile.ngpvan.com" data-databag="everybody" data-mobile-autofocus="false">
 </div>
